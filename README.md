@@ -37,8 +37,10 @@ Right now it's simple:
 c-playground/
 │
 ├── basics/
+│   ├── arrays
 │   ├── if-else
 │   ├── input-scanf
+│   ├── strings(char)
 │   ├── loops    
 │   └── variables
 │
