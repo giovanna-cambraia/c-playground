@@ -40,8 +40,9 @@ c-playground/
 │   ├── arrays
 │   ├── if-else
 │   ├── input-scanf
-│   ├── strings(char)
-│   ├── loops    
+│   ├── loops
+│   ├── pointers
+│   ├── strings(char)    
 │   └── variables
 │
 └── README.md
