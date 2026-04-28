@@ -38,6 +38,7 @@ c-playground/
 │
 ├── basics/
 │   ├── arrays
+│   ├── functions-pointers
 │   ├── if-else
 │   ├── input-scanf
 │   ├── loops
