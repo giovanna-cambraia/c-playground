@@ -8,17 +8,12 @@ int main()
 {
     srand(time(NULL));
 
-    Agent agent;
-
-    for (int i = 0; i < 5; i++)
-    {
-        agent.history[i] = 0;
-    }
-    agent.history_index = 0;
+    Agent agent = {0};
 
     while (1)
     {
         perceive(&agent);
+        update_memory(&agent);
         decide(&agent);
         act(&agent);
 

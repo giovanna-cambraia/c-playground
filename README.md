@@ -36,6 +36,12 @@ Right now it's simple:
 ```
 c-playground/
 │
+├── agent-v1/
+|   ├── agent.c
+|   ├── agent.h
+|   ├── main.c
+|   ├── sensors.c
+|   ├── sensors.h
 ├── basics/
 │   ├── arrays
 │   ├── functions-pointers
@@ -45,7 +51,7 @@ c-playground/
 │   ├── pointers
 │   ├── strings(char)    
 │   └── variables
-│
+├── intermediate/
 └── README.md
 ```
 
