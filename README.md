@@ -36,12 +36,10 @@ Right now it's simple:
 ```
 c-playground/
 │
-├── agent-v1/
-|   ├── agent.c
-|   ├── agent.h
-|   ├── main.c
-|   ├── sensors.c
-|   ├── sensors.h
+├── agent-PyC/
+|   ├── agent-v1/
+|   └── python-v1/
+|
 ├── basics/
 │   ├── arrays
 │   ├── functions-pointers
